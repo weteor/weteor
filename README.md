@@ -1,6 +1,6 @@
-## My keyboard projects:
+## keyboard projects:
 
-![3W6](img/50_3w6.jpg) [3W6](https://github.com/weteor/3W6) 
+![3W6](img/50_3w6.jpg) [3W6](https://github.com/weteor/3W6)
 
 ![Brk Out](img/50_BrkOut.jpg) [Brk Out](https://github.com/weteor/BrkOut)
 
